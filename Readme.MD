@@ -15,6 +15,6 @@ More functionality will be added over time to improve and expand its capabilitie
 ## Documentation
 
 Full documentation is available at:  
-- [Documentation](https://docs-sandy-phi.vercel.app/auth-server.html)
+- [Documentation](https://portfolio-taqdees-projects.vercel.app/?nad=true)
 
 This includes setup instructions, API reference, and usage examples.
